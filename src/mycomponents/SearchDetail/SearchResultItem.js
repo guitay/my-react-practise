@@ -1,6 +1,7 @@
 import React,{Component} from 'react';
 import ReactDOM from 'react-dom';
-import './search-detail.css'
+import './css/search-detail.css';
+import './css/base.css';
 
 class SearchResultItem extends Component{
 	constructor(props){

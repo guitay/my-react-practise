@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 import SearchDetail from './mycomponents/SearchDetail'
 
 {
-	var data = [{title:"aaa"},{title:"bbbb"},{title:"ccccc"}]
+	var data = [{title:"aaa"},{title:"bbbb"},{title:"ccccc"}];
 }
 
 ReactDOM.render(
